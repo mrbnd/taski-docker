@@ -1,0 +1,8 @@
+venv
+.git
+db.sqlite3 
+.md
+frontend/
+node_modules
+build 
+.env
